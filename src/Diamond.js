@@ -52,7 +52,7 @@ export default function App() {
   return (
     <>
     <section className='App-header'>
-      <Canvas>
+      <Canvas shadows camera={{ position: [-2, 1, 3], fov: 45 }}>
         <color attach="background" args={['white']} />
         <ambientLight intensity={0.5} color={0x404040} />
         <spotLight position={[5, 5, -10]} angle={0.1} penumbra={5} />
