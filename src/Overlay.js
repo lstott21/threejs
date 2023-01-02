@@ -37,13 +37,13 @@ export default function Overlay({ fill }) {
           <tspan x={40} y={440} children={'< Working on new website >'} />
         </text>
         <text style={{ whiteSpace: 'pre' }} fontFamily="Inter" fontSize={20} fontWeight={500} letterSpacing="0em">
-          <tspan x={40} y={470} children={'< If you fin yourself here, play around with the                 >'} />
+          <tspan x={40} y={470} children={'< If you find yourself here, play around with the                 >'} />
         </text>
         <text style={{ whiteSpace: 'pre' }} fontFamily="Inter" fontSize={20} fontWeight={500} letterSpacing="0em">
           <tspan x={40} y={500} children={'< Websites should not only be fun, but also interactive >'} />
         </text>
         <text fill="#F9A825" style={{ whiteSpace: 'pre' }} fontFamily="Inter" fontSize={20} fontWeight={500} letterSpacing="0em">
-          <tspan x={485} y={470} children={'SPHERE'} />
+          <tspan x={495} y={470} children={'SPHERE'} />
         </text>
         <text style={{ whiteSpace: 'pre' }} fontFamily="Inter" fontSize={12} fontWeight={500} letterSpacing="0em">
           <tspan x={40} y={700} children="Email:" />
